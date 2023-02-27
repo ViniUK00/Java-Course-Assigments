@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/classes-part1/classes-part1.iml" filepath="$PROJECT_DIR$/classes-part1/classes-part1.iml" />
       <module fileurl="file://$PROJECT_DIR$/classes-part2-challenge/classes-part2-challenge.iml" filepath="$PROJECT_DIR$/classes-part2-challenge/classes-part2-challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/classes-part3-challenge-POJO/classes-part3-challenge-POJO.iml" filepath="$PROJECT_DIR$/classes-part3-challenge-POJO/classes-part3-challenge-POJO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classes-part4/classes-part4.iml" filepath="$PROJECT_DIR$/classes-part4/classes-part4.iml" />
     </modules>
   </component>
 </project>
